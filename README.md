@@ -1,5 +1,7 @@
 #BEFORE
+
 `wget https://download.jboss.org/drools/release/7.16.0.Final/business-central-7.16.0.Final-wildfly14.war`
+
 `wget https://download.jboss.org/drools/release/7.16.0.Final/kie-server-distribution-7.16.0.Final.zip`
 
 #BUILD
